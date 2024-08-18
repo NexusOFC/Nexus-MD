@@ -1,0 +1,32 @@
+{
+  "ownerNumber": [
+    "212660131536"
+  ],
+  "readme": "Enter the ownerNumber as needed. You can add as many numbers as you like, just make sure the commas are correct to avoid errors. Install modules with npm i or yarn.",
+  "contact": "212660131536",
+  "botName": "Nexus-MD",
+  "ownerName": "Aymane Touzani",
+  "footer": "© 2024, by Aymane Touzani",
+  "sosmed": "https://www.instagram.com/tzaym1",
+  "thumbnail": "https://i.ibb.co/3cpgsST/file.png",
+  "music": "https://qu.ax/fRjY.opus",
+  "ram": 1024,
+  "auto_dl": true,
+  "typing": false,
+  "recording": false,
+  "read": true,
+  "self": false,
+  "readme2": "botNumber is the number you want to set as the bot.",
+  "botNumber": 212774265928,
+  "group": {
+    "only": false,
+    "only_message": false,
+    "readme3": "only_message responds with groupOnly message when group mode is active in private chat. Set it to true to respond with a groupOnly message, or false to not respond in private chat. Type .set for an explanation or see plugins/owner/owner-set.js.",
+    "adReply": true,
+    "limit_adReply": false,
+    "limit_message": true,
+    "link": "https://chat.whatsapp.com/KGeBGP76GNx3rfQIhzcElI",
+    "bye": "وداعا \n%user \nHas لقد غادر من مجموعة%subject",
+    "welcome": "*مرحبا بك *\n*%user* \n*في مجموعة %subject*"
+  }
+}

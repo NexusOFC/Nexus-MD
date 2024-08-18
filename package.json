@@ -1,0 +1,36 @@
+{
+  "name": "nexus-ai",
+  "version": "8.0.5",
+  "description": "Simple WhatsApp bot made by Aymane Touzani",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js --pairing"
+  },
+  "author": "Aymane Touzani",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "npm:@whiskeysockets/baileys",
+    "@vitalets/google-translate-api": "^8.0.0",
+    "ruhend-scraper": "*",
+    "aptoide-scraper": "1.0.1",
+    "cheerio": "1.0.0-rc.12",
+    "chalk": "2.4.2",
+    "colors": "1.4.0",
+    "file-type": "16.5.4",
+    "file_size_url": "1.0.4",
+    "fluent-ffmpeg": "^2.1.1",
+    "form-data": "^4.0.0",
+    "google-tts-api": "2.0.2",
+    "human-readable": "^0.2.1",
+    "jimp": "^0.16.2",
+    "moment-timezone": "^0.5.34",
+    "utils-mf": "^8.0.5",
+    "node-fetch": "2.6.1",
+    "node-os-utils": "^1.3.7",
+    "node-webpmux": "^3.1.1",
+    "performance-now": "^2.1.0"
+  }
+}
